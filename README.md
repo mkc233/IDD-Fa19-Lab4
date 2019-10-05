@@ -38,6 +38,8 @@ The angle is controlled by the intialization of the for loops.  The 180 to 0 tel
 
 **a. Make a video of your proto puppet.**
 
+[Paper Puppet](https://youtu.be/k30X19Ruazs )
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**

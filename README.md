@@ -1,10 +1,8 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Michael Chan*
 
-## In this Report
 
-To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab4). You'll need to describe your design, include a video of your paper display in operation, and upload any code you wrote to make it move.
 
 ## Part A. Actuating DC motors
 
